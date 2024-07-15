@@ -21,7 +21,6 @@ header{
     align-items: center;
     justify-content: space-between;
     height: 88px;
-    /*flex-direction: row;*/
     padding: 20px 20px;
 }
 .brand a {
@@ -269,7 +268,6 @@ header{
     top: 146px;
     gap: 0px;
     z-index: -2;
-    /*margin-top: 50px;*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -369,8 +367,6 @@ header{
 
 .glide__arrows button {
     background-color: white;
-    /* width: 54px;
-    height: 54px; */
     margin: 0 -140px;
 }
 
@@ -445,7 +441,6 @@ header{
 
 .slide-desc{
     width: 307px;
-    /* height: 38px; */
     height: auto;
     top: 195px;
     left: 664px;
@@ -501,11 +496,8 @@ header{
     font-weight: 500;
     text-align: left;
     color: #202020;
-    /*padding-bottom: 10px;*/
     line-height: 30.72px;
     height: 31px;
-    /*padding-left: 29px;*/
-    /*padding-top: 30px;*/
     width: 344px;
     top: 446px;
     left: 919px;
@@ -518,11 +510,7 @@ header{
     text-align: left;
     color: #202020;
     line-height: 22px;
-    /*padding-top: 30px;*/
-    /*width: 765px;*/
-    /*height: 88px;*/
     width: 90%;
-    /* height:66px; */
     height: auto;
     top: 498px;
     left: 919px;
@@ -538,8 +526,7 @@ header{
     font-weight: 500;
     text-align: left;
     line-height: 24.38px;
-    /*padding-top: 2200px;*/
-    /*padding-top: 30px;*/
+
 
 
 }
@@ -632,13 +619,12 @@ header{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0px;
-    /*max-width: 100%;*/
     max-width: 1734px;
     width:100%;
     height: 540px;
 
     margin: 5% auto;
-    /*margin:  2% 5% 2%;*/
+
 }
 
 .location {
@@ -705,9 +691,6 @@ header{
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 113px;
-    /*margin-top: 20px;*/
-    /*margin-left: 30px;*/
-    /*margin-left: 2%;*/
     padding: 87px  0;
 }
 
@@ -715,10 +698,7 @@ header{
 
 .footer-column {
     flex: 1;
-    /*min-width: 200px;*/
-    /*max-width: 500px;*/
-    /*gap:100px;*/
-    /*padding-right: 50px;*/
+   
 }
 
 #footer-name {
@@ -833,9 +813,7 @@ header{
 
 .footer-bottom {
 
-    /*margin-top: 2rem;*/
-    /*margin-left: 93px;*/
-    /*padding-top: 1rem;*/
+  
     font-family: 'Montserrat';
     font-size: 14px;
     font-weight: 400;
@@ -863,8 +841,6 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    /*margin-left: 40px;*/
-    /*margin-right:40px ;*/
     margin: 0 auto;
 
 }
@@ -874,7 +850,7 @@ header{
     max-width: 1734px;
     width: 100%;
     height: 550px;
-    /*height:100%;*/
+
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -893,7 +869,7 @@ header{
 }
 
 .product {
-    /* width:30%; */
+   
     max-width: 423px;
     width: 100%;
     display: flex;
@@ -913,7 +889,7 @@ header{
 }
 
 .product-info {
-    /*padding: 10px;*/
+
     width: 417px;
 
 }
@@ -925,7 +901,7 @@ header{
     font-weight: 400;
     line-height: 19.5px;
     text-align: left;
-    /*width: 374px;*/
+
     height: 40px;
     margin-bottom: 10px;
 }
